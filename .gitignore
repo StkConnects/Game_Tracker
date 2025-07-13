@@ -1,0 +1,2 @@
+game_time.json  # Ignore the data file
+__pycache__/   # Ignore Python cache
